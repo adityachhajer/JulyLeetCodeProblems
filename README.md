@@ -9,6 +9,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 2. Binary Tree Level Order Traversal II. <p>
 3. Prison Cells After N Days. <p>
 4. ugly Number II.<p>
+5. Hamming Distance. <p>
   
 <h2>Contributing</h2>
 
