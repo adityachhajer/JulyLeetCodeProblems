@@ -10,6 +10,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 3. Prison Cells After N Days. <p>
 4. ugly Number II.<p>
 5. Hamming Distance. <p>
+6. plus one. <p>
   
 <h2>Contributing</h2>
 
