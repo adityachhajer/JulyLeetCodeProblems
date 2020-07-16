@@ -24,6 +24,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 7. Angle Between Hands of a Clock. <p>
 <h2>Contributing</h2>
 
+<h1>Week-3</h1>
+
+1. Reverse Words in a String. <p>
+
 Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. 😃
 
 <h3>Author</h3>
