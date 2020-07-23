@@ -33,6 +33,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 5. Add Binary. <p>
 6. Remove Linked List Elements. <p>
 7. Word Search. <p>
+  
+<h1>Week-4</h1>
+  
+1. Binary Tree Zigzag Level Order Traversal. <p>
 
 Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. 😃
 
