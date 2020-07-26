@@ -39,6 +39,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 1. Binary Tree Zigzag Level Order Traversal. <p>
 2. Single Number III. <p>
 3. All Paths From Source to Target. <p>
+4. Find Minimum in Rotated Sorted Array II. <p>
 
 Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. 😃
 
