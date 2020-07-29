@@ -42,6 +42,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 4. Find Minimum in Rotated Sorted Array II. <p>
 5. Add Binary. <p>
 6. Construct Binary Tree from Inorder and Postorder Traversal. <p>
+7. Task Scheduler. <p>
   
 Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. 😃
 
