@@ -43,6 +43,10 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 5. Add Binary. <p>
 6. Construct Binary Tree from Inorder and Postorder Traversal. <p>
 7. Task Scheduler. <p>
+   
+<h1>Week-5</h1>
+
+1. Best Time to Buy and Sell Stock with Cooldown. <p>
   
 Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. 😃
 
