@@ -48,6 +48,7 @@ Code available in : Python (I'll try to write in more languages. Open for contri
 
 1. Best Time to Buy and Sell Stock with Cooldown. <p>
 2. Word Break II. <p>
+3. Climbing Stairs. <p>
   
 Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. 😃
 
